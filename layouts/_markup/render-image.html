@@ -1,0 +1,5 @@
+<img src="{{ .Destination }}" alt="{{ .PlainText }}" referrerpolicy="no-referrer"
+	{{- with .Title }} title="{{ . }}" {{- end -}}
+	{{- range $k, $v := .Attributes }}
+		{{- if $v }}{{ printf " %s=%q" $k ($v | transform.HTMLEscape) | safeHTMLAttr }}{{ end }}
+	{{- end -}}>
