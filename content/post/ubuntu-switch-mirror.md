@@ -4,6 +4,7 @@ date = '2024-07-18T13:43:00+08:00'
 draft = false
 tags = ['Linux', 'Ubuntu', '镜像源']
 categories = ['技术']
+summary = 'Ubuntu 系统更换软件源的详细步骤，以阿里云镜像为例，包含备份原源文件和编辑 sources.list 的操作方法。'
 +++
 
 ## 前言

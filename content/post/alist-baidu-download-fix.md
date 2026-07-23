@@ -4,6 +4,7 @@ date = '2024-03-12T16:09:00+08:00'
 draft = false
 tags = ['Alist', '百度网盘']
 categories = ['技术']
+summary = '解决 Alist 中百度网盘 anti hotlinking 报错的方法，通过修改 UA 为 pan.baidu.com 以通过服务器校验。'
 +++
 
 ## 报错：anti hotlinking 或 sign error

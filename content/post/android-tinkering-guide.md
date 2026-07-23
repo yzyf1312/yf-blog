@@ -4,6 +4,7 @@ date = '2024-02-28T20:00:00+08:00'
 draft = false
 tags = ['Android', 'Magisk']
 categories = ['技术']
+summary = '安卓玩机入门指南，介绍用户权限、ADB 权限、ROOT 权限的区别与管理方式。'
 +++
 
 ### 前言

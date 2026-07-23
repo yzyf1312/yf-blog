@@ -4,6 +4,7 @@ date = '2025-02-05T12:00:00+08:00'
 draft = false
 tags = ['Dart', 'FFI']
 categories = ['技术']
+summary = '使用 ffigen 包为 Dart 生成动态链接库绑定的完整示例，基于 Go 语言生成 DLL 并通过 Dart 调用。'
 +++
 
 本文使用 `ffigen` 包为 Dart 生成动态链接库的绑定。

@@ -4,6 +4,7 @@ date = '2025-04-24T22:00:00+08:00'
 draft = false
 tags = ['Dart', 'Flutter']
 categories = ['技术']
+summary = 'Dart/Flutter 开发常见问题解决，包括 Gradle 镜像配置、包推荐工具及实用包介绍。'
 +++
 
 > 小声逼逼：

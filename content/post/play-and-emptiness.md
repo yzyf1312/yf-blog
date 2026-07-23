@@ -4,6 +4,7 @@ date = '2026-02-14T18:11:00+08:00'
 draft = false
 tags = ['心理学', '成长', '思考']
 categories = ['转载']
+summary = '探讨玩耍与心理健康的关系，区分真假玩耍，论述主动性的玩耍对对抗虚无和发现真自我的重要性。'
 +++
 
 来源：[不会玩的人，一生都活在空虚之中](https://www.bilibili.com/video/BV12JqfBNEbS/)

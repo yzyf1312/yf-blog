@@ -4,6 +4,7 @@ date = '2024-09-08T14:31:00+08:00'
 draft = false
 tags = ['PotPlayer']
 categories = ['技术']
+summary = '推荐 PotPlayer 的 theSimpleThing 2.0 皮肤，提供下载来源及推荐的图层式皮肤输出配置方法。'
 +++
 
 ### theSimpleThing 2.0

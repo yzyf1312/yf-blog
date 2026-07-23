@@ -4,6 +4,7 @@ date = '2025-03-29T17:52:00+08:00'
 draft = false
 tags = ['镜像源', 'Go']
 categories = ['技术']
+summary = 'Go 开发镜像加速指南，覆盖安装包下载镜像、GOPROXY 配置及私有模块设置。'
 +++
 
 ## 安装 Go 时下载龟速

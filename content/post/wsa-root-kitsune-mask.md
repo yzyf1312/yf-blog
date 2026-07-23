@@ -4,6 +4,7 @@ date = '2024-03-10T20:00:00+08:00'
 draft = false
 tags = ['WSA', 'Android', 'Magisk']
 categories = ['技术']
+summary = '基于 Kitsune Mask 的 WSA Root 方案，通过修改 MagiskOnWSALocal 脚本中的 generateMagiskLink.py 实现集成。'
 +++
 
 ![Kitsune-WSA](https://i0.hdslb.com/bfs/article/ab99cdc8e6db9e89467338586463612e549933280.jpg)

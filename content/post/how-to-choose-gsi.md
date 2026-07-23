@@ -4,6 +4,7 @@ date = '2024-03-02T20:00:00+08:00'
 draft = false
 tags = ['Android', 'GSI']
 categories = ['技术']
+summary = '解释 GSI 镜像命名规则（arm64/a64/bgn/bvn 等），帮助用户根据设备 CPU 架构和分区类型选择正确的 GSI 版本。'
 +++
 
 本文将解释应如何在 [GSI](https://developer.android.google.cn/topic/generic-system-image) 的诸多分类 (arm64/a64/bgn/bvn/bgs/vndklite) 中做出选择。

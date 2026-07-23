@@ -4,6 +4,7 @@ date = '2025-03-29T17:51:00+08:00'
 draft = false
 tags = ['Rust', '镜像源']
 categories = ['技术']
+summary = 'Rust 开发环境搭建的镜像加速方案，包括 rustup 安装和 cargo 配置的中科大镜像源设置方法。'
 +++
 
 > 国内 Rust 开发环境搭建总被网络问题卡脖子，实测[中科大镜像源](https://mirrors.ustc.edu.cn/)比较稳定。

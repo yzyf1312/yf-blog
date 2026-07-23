@@ -4,6 +4,7 @@ date = '2024-03-06T20:00:00+08:00'
 draft = false
 tags = ['WSA', 'Android']
 categories = ['技术']
+summary = 'WSA (Windows Subsystem for Android) 使用杂谈，涵盖下载方式、ADB 权限获取及 Magisk 模块安装注意事项。'
 +++
 
 ### WSA 的微软文档

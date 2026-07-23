@@ -4,6 +4,7 @@ date = '2025-03-29T17:52:00+08:00'
 draft = false
 tags = ['Dart', 'Flutter', '镜像源']
 categories = ['技术']
+summary = 'Dart/Flutter 镜像加速配置指南，包含 PUB_HOSTED_URL 和 FLUTTER_STORAGE_BASE_URL 环境变量设置及推荐镜像源列表。'
 +++
 
 ### 核心镜像变量配置
